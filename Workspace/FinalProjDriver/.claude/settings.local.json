@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl -s https://raw.githubusercontent.com/adafruit/Adafruit_ILI9341/master/Adafruit_ILI9341.cpp)",
+      "Bash(curl -s https://raw.githubusercontent.com/adafruit/Adafruit_ILI9341/master/Adafruit_ILI9341.h)",
+      "Bash(curl -s https://raw.githubusercontent.com/adafruit/Adafruit-GFX-Library/master/Adafruit_SPITFT.cpp)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
